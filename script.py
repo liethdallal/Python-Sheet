@@ -1,0 +1,1 @@
+# Use this to test anything!!! remember to run python in terminal you type        python script.py
